@@ -1,6 +1,5 @@
 {
-  "name": "mastergo-hello",
-  "id": 61626302068804,
-  "main": "dist/main.js",
-  "ui": "dist/index.html"
+  "name": "随机颜色",
+  "id": 61626302068805,
+  "main": "dist/main.js"
 }
