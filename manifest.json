@@ -1,0 +1,6 @@
+{
+  "name": "mastergo-hello",
+  "id": 61626302068804,
+  "main": "dist/main.js",
+  "ui": "dist/index.html"
+}
